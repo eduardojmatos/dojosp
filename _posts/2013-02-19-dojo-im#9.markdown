@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: "Coding Dojo Python @ iMasters"
 date: 2013-02-19 19:00:00 -03:00
@@ -20,5 +20,8 @@ O conhecimento avançado do tutor deste Coding Dojo (Danilo Bellini) cooperou mu
 
 Veja as fotos da galera deste Coding Dojo:
 
-<img src="/wp-content/uploads/2013/02/imasters9-1.jpg" alt="Let's Dojo!" title="Let's Dojo!" width="400" heigh="200" />
-<img src="/wp-content/uploads/2013/02/imasters9-2.jpg" alt="Let's Dojo!" title="Let's Dojo!" width="200" heigh="400" />
+
+<img src="/wp-content/uploads/2013/02/imasters9-1.jpg" alt="Let's Dojo!" title="Let's Dojo!" width="400" heigh="200" class="thumbnail" />
+
+
+<img src="/wp-content/uploads/2013/02/imasters9-2.jpg" alt="Let's Dojo!" title="Let's Dojo!" width="200" heigh="400" class="thumbnail" />
